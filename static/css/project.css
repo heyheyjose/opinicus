@@ -1,0 +1,17 @@
+input[type='tel'] {
+  height: 2.75rem;
+}
+
+.wrap-text {
+  float: left;
+  margin-right: 20px;
+}
+
+.address-wrap {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.resource-link-wrap {
+  margin-bottom: 10px;
+}

@@ -1,4 +1,4 @@
-baseURL = "heyheyjose.com"
+baseURL = "heyheyjose.com/opinicus"
 publishDir = "docs"
 title = "Opinicus"
 theme = "dimension"

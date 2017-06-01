@@ -1,3 +1,4 @@
+baseURL = "heyheyjose.com"
 publishDir = "docs"
 title = "Opinicus"
 theme = "dimension"

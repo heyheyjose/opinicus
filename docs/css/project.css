@@ -1,13 +1,13 @@
 .image:before {
-  background-image: url("/images/overlay.png");
+  background-image: url("images/overlay.png");
 }
 
 #bg:before {
-  background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("/images/overlay.png");
+  background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("images/overlay.png");
 }
 
 #bg:after {
-  background-image: url("/images/bg.jpg");
+  background-image: url("images/bg.jpg");
 }
 
 input[type='tel'] {

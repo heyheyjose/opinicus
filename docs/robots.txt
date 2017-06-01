@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://heyheyjose.github.io/opinicus/docs/sitemap.xml
+Sitemap: /sitemap.xml

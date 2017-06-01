@@ -1,4 +1,3 @@
-baseURL = "https://heyheyjose.github.io/opinicus/docs"
 publishDir = "docs"
 title = "Opinicus"
 theme = "dimension"

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: heyheyjose.com/sitemap.xml
+Sitemap: heyheyjose.com/opinicus/sitemap.xml

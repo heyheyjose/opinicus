@@ -46,5 +46,5 @@ Inquire below about a free introductory consultation.
 
   <button type="submit">Send</button>
 
-  <input type="hidden" name="_next" value="/" />
+  <input type="hidden" name="_next" value="/opinicus" />
 <form>

@@ -32,13 +32,13 @@ Ft. Lauderdale, FL 33309<br>
 Inquire below about a free introductory consultation.
 
 <form method="POST" action="http://formspree.io/jose.vazquez.dev+formspree@gmail.com">
-  <input type="text" name="Name" placeholder="Name">
+  <input type="text" name="Name" placeholder="Name" required />
 
-  <input type="email" name="_replyto" placeholder="Email">
+  <input type="email" name="_replyto" placeholder="Email" required />
 
-  <input type="tel" name="Phone" placeholder="Phone">
+  <input type="tel" name="Phone" placeholder="Phone" required />
 
-  <textarea rows="5" name="Message" placeholder="Message"></textarea>
+  <textarea rows="5" name="Message" placeholder="Message" required></textarea>
 
   <button type="submit">Send</button>
 

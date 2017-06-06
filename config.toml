@@ -10,7 +10,7 @@ disableKinds = ["RSS"]
 [params]
   title = "Opinicus"
   description = '<!--[-->Wealth Advancement Services &amp; Business Solutions<!--]--><br />'
-  logo = "fa-diamond"
+  logoimage = 'images/jvazz3_finalB.png'
   copyright = "Opinicus"
 
 [[params.social]]

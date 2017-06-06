@@ -27,3 +27,9 @@ input[type='tel'] {
 .resource-link-wrap {
   margin-bottom: 10px;
 }
+
+#header .custom-logo {
+  width: 6.75rem;
+  height: 6.75rem;
+  line-height: 6.75rem;
+}

@@ -1,3 +1,9 @@
+/*
+  This project.css file is where overrides can be placed (it is linked in the
+  head after main.css).
+*/
+
+/*region background mods*/
 .image:before {
   background-image: url("/opinicus/images/overlay.png");
 }
@@ -9,27 +15,36 @@
 #bg:after {
   background-image: url("/opinicus/images/bg.jpg");
 }
+/*endregion*/
 
-input[type='tel'] {
-  height: 2.75rem;
-}
-
+/*region about page*/
 .wrap-text {
   float: left;
   margin-right: 20px;
+}
+/*endregion*/
+
+/*region contact page*/
+input[type='tel'] {
+  height: 2.75rem;
 }
 
 .address-wrap {
   display: inline-block;
   margin-right: 50px;
 }
+/*endregion*/
 
+/*region resources page*/
 .resource-link-wrap {
   margin-bottom: 10px;
 }
+/*endregion*/
 
+/*region header mods*/
 #header .custom-logo {
   width: 6.75rem;
   height: 6.75rem;
   line-height: 6.75rem;
 }
+/*endregion*/
